@@ -1,4 +1,4 @@
-# Microservice Reviewer v1
+# Microservice Reviewer
 
 > Simple microservice assessment tool for startup engineering teams
 
